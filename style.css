@@ -71,6 +71,11 @@ li {
     padding-bottom: 0.8rem;
 }
 
+img {
+    width: 100%;
+    margin-bottom: 1.6rem;
+}
+
 .bg-lightgray {
     background-color: #f6f6f6;
 }
